@@ -11,6 +11,9 @@ http://wiki.ros.org/turtlebot/Tutorials/indigo/Turtlebot%20Installation
 
 iii) pyquaternion: install using "pip install pyquaternion", used in controller code 
 
+iv) the optimization was solved using academic license of gurobipy and it needs to be installed by downloading the software 
+from https://www.gurobi.com/registration/download-reg and following installation instructions. 
+
 Installation instructions: 
 clone the files in your catkin_ws and run 
 cd ~catkin_ws
